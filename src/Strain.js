@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function strain() {
+export default function Strain() {
     return (
         <div>
             <label>
